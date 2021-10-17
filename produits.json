@@ -58,8 +58,8 @@
     {
       "nom" : "Soupe à la tomate",
       "prix" : 1.40,
-      "image" : "tomatoSoupe.jpg",
-      "type" : "Soupe",
+      "image" : "tomatosoup.jpg",
+      "type" : "soupe",
       "nutriscore" : "C"
     },
     {
@@ -73,14 +73,14 @@
       "nom" : "Soupe de nouilles au poulet",
       "prix" : 1.89,
       "image" : "chickennoodle.jpg",
-      "type" : "Soupe",
+      "type" : "soupe",
       "nutriscore" : "D"
     },
     {
       "nom" : "Soupe de carottes et coriandre",
       "prix" : 1.49,
       "image" : "carrotcoriander.jpg",
-      "type" : "Soupe",
+      "type" : "soupe",
       "nutriscore" : "D"
     }
   ]
