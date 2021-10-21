@@ -1,5 +1,5 @@
 # CanStore
-TP SIO
+TP SIO by thomas
 A partir des fichiers fournis, vous êtes chargé de :
 - Franciser les commentaires du code JS pour une meilleure compréhension et la page html pour le public français. La boutique s’appellera : "Au jardin en boite".
 - La méthode d’accès aux images est : function fetchBlob(product). Supprimer cette fonction en utilisant simplement l’url de l’image transmise par le JSON pour paramétrer l’attribut « src » des images dans la function showProduct(objectURL, product) qui ne prendra donc plus qu’un argument « product ».
